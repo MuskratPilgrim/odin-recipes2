@@ -1,0 +1,40 @@
+/* pizza styles */
+
+#title {
+    font-size: 50px;
+    color: crimson;
+    background-color: goldenrod;
+    font-weight: 700;
+}
+
+.warning {
+    color: red;
+    background-color: yellow;
+}
+
+.ingred {
+    background-color: black;
+    font-weight: 700;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ingred.one {
+    color: white;
+}
+
+.ingred.two {
+    color: yellow;
+}
+
+.ingred.three {
+    color: green;
+}
+
+.ingred.four {
+    color: pink;
+}
+
+.ingred.five {
+    color: cyan;
+}
